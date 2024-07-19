@@ -1,4 +1,18 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "images.pexels.com",
+      },
+      {
+        protocol: "https",
+        hostname: "drive.google.com",
+        pathname: "/uc**", // This ensures that only the /uc path is used for images
+      },
+    ],
+  },
+};
 
 export default nextConfig;
