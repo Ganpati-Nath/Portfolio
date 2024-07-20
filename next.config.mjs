@@ -9,7 +9,7 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "drive.google.com",
-        pathname: "/uc**", // This ensures that only the /uc path is used for images
+        pathname: "/uc*",
       },
     ],
   },
