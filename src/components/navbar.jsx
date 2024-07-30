@@ -93,20 +93,20 @@ const Navbar = () => {
         <Link href="https://github.com/Ganpati-Nath">
           <Image src="/github.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="https://dribbble.com/ganpatinath">
+        {/* <Link href="https://dribbble.com/ganpatinath">
           <Image src="/dribbble.png" alt="" width={24} height={24} />
-        </Link>
-        <Link href="https://www.instagram.com/__ganpati__nath__/">
-          <Image src="/instagram.png" alt="" width={24} height={24} />
-        </Link>
+        </Link> */}
         <Link href="https://www.facebook.com/ganpati.nath.1">
-          <Image src="/facebook.png" alt="" width={24} height={24} />
+          <Image src="/hackerrank.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="https://in.pinterest.com/ganpatinath07/">
-          <Image src="/pinterest.png" alt="" width={24} height={24} />
+        <Link href="https://leetcode.com/u/ganpatinath07/">
+          <Image src="/leetcode.png" alt="" width={24} height={24} />
         </Link>
         <Link href="https://www.linkedin.com/in/ganpatinath/">
           <Image src="/linkedin.png" alt="" width={24} height={24} />
+        </Link>
+        <Link href="https://www.instagram.com/__ganpati__nath__/">
+          <Image src="/favicon-1.png" alt="" width={24} height={24} />
         </Link>
       </div>
       {/* RESPONSIVE MENU */}

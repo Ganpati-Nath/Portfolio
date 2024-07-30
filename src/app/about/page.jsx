@@ -33,7 +33,7 @@ const AboutPage = () => {
             <Image
               // src="https://drive.google.com/uc?export=view&id=1KrcdN_8ldG-2nKrufoOpa-e2x6g3c7-0
 // "
-              src = "/profile.jpg"
+              src = "/profile.png"
               alt=""
               width={112}
               height={112}
