@@ -96,7 +96,7 @@ const Navbar = () => {
         {/* <Link href="https://dribbble.com/ganpatinath">
           <Image src="/dribbble.png" alt="" width={24} height={24} />
         </Link> */}
-        <Link href="https://www.facebook.com/ganpati.nath.1">
+        <Link href="https://www.hackerrank.com/profile/ganpatinath07">
           <Image src="/hackerrank.png" alt="" width={24} height={24} />
         </Link>
         <Link href="https://leetcode.com/u/ganpatinath07/">
@@ -105,7 +105,7 @@ const Navbar = () => {
         <Link href="https://www.linkedin.com/in/ganpatinath/">
           <Image src="/linkedin.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="https://www.instagram.com/__ganpati__nath__/">
+        <Link href="https://portfolio-git-main-ganpati-naths-projects.vercel.app/">
           <Image src="/favicon-1.png" alt="" width={24} height={24} />
         </Link>
       </div>
